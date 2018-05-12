@@ -1,4 +1,8 @@
 _repo: Komik-und-Humor-Eine-Psychologische-Asthetische-Untersuchung_8298
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lipps, Theodor
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2709
     wikipedia: http://en.wikipedia.org/wiki/Theodor_Lipps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8298#Komik-und-Humor-Eine-Psychologische-Asthetische-Untersuchung
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
